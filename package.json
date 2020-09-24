@@ -1,6 +1,6 @@
 {
   "name": "routify-tailwindcss",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Setup Tailwindcss to the Routify Starter Template (roxiness/routify-starter) in just one command",
   "bin": "cli.js",
   "scripts": {},
