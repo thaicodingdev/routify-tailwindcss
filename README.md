@@ -17,7 +17,7 @@ PS: Tailwindcss purgecss is enabled for you.
 Because this script will replace your existing `rollup.config.js`.
 
 Backup the content in your rollup.config.js,
-and insert the plugins you have added, after running the script below.
+after running the command below you can later insert back some codes from your old rollup.config.js in case you edited it in the past.
 
 This command will make Tailwindcss work with the existing routify project.
 
