@@ -1,0 +1,22 @@
+{
+  "name": "routify-tailwindcss",
+  "version": "1.0.1",
+  "description": "Setup Tailwindcss to the Routify Starter Template (roxiness/routify-starter) in just one command",
+  "bin": "cli.js",
+  "scripts": {},
+  "keywords": [
+    "routify",
+    "tailwindcss",
+    "tailwind"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaicodingdev/routify-tailwindcss"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "shelljs": "^0.8.4"
+  },
+  "author": "thaicodingdev",
+  "license": "MIT"
+}
