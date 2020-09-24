@@ -25,6 +25,8 @@ npx routify-tailwindcss
 
 ## Create a brand new Routify2 project with Tailwindcss setup in just one line
 
+In an empty directory, run this command.
+
 ```shell
 npx @roxi/routify init --branch 2.x && npx routify-tailwindcss
 ```
