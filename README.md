@@ -1,6 +1,6 @@
 ## To create a brand new Routify starter theme with Tailwindcss setup
 
-Just run this command in an empty directory
+Just run this command in an empty directory.
 
 ```shell
 npx @roxi/routify init && npx routify-tailwindcss
@@ -14,10 +14,14 @@ PS: Tailwindcss purgecss is enabled for you.
 
 ## To install Tailwindcss to an existing project
 
-First, backup the content in your rollup.config.js
-and insert the plugins you have added later after running the script below
+Because this script will replace your existing `rollup.config.js`.
 
-This will make Tailwindcss work with the existing routify project.
+Backup the content in your rollup.config.js,
+and insert the plugins you have added later, after running the script below.
+
+This command will make Tailwindcss work with the existing routify project.
+
+Run this in the project root directory.
 
 ```shell
 npx routify-tailwindcss
